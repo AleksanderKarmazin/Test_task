@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/../Mega.ru/.idea/Mega.ru.iml" filepath="$PROJECT_DIR$/../Mega.ru/.idea/Mega.ru.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Python_class/.idea/Python_class.iml" filepath="$PROJECT_DIR$/../Python_class/.idea/Python_class.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Test_task.iml" filepath="$PROJECT_DIR$/.idea/Test_task.iml" />
     </modules>
   </component>
